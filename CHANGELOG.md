@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/hijuliancode/test-eleavation-package/compare/v1.0.0...v2.0.0) (2024-09-05)
+
+
+### Features
+
+* adding demo file to test the release ([db6e618](https://github.com/hijuliancode/test-eleavation-package/commit/db6e618e9a95937ab03f9c5d595b61ce2fdb70fc))
+
+
+### BREAKING CHANGES
+
+* Breaking change description
+
 # [1.0.0](https://github.com/hijuliancode/test-eleavation-package/compare/v0.3.0...v1.0.0) (2024-09-05)
 
 
