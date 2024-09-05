@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/hijuliancode/test-eleavation-package/compare/v0.3.0...v1.0.0) (2024-09-05)
+
+
+### Features
+
+* adding one file to test the release major version ([5a77e9a](https://github.com/hijuliancode/test-eleavation-package/commit/5a77e9ab4173efbfc5dc03c762acbf0b484e10bf))
+
+
+### BREAKING CHANGES
+
+* trying to send a major version
+
 # [0.3.0](https://github.com/hijuliancode/test-eleavation-package/compare/v0.2.0...v0.3.0) (2024-09-05)
 
 
